@@ -1,7 +1,1 @@
-Add this line!
-
-Add new line here
-
-
-
-Added this line in cloud repo
+New line added on local repo
